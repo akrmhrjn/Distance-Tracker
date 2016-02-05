@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrackerApp</string>
+
+    <color name="ColorPrimary">#30AED4</color>
+    <color name="ColorPrimaryDark">#2e98b9</color>
+    <string name="google_map_api_key">AIzaSyAXeXIZIc9AQjNpATyI-e0oQkvXy_Blyi4</string>
+
+    <color name="white">#FFFFFF</color>
+</resources>
